@@ -150,3 +150,9 @@ font-size:12px;
 font-style:italic;
 color:red;
 }
+.date-error{
+    margin-left:10px;
+    font-size:12px;
+    font-style:italic;
+    color:red;   
+}
